@@ -31,3 +31,14 @@ C:\Users\Naushad\Desktop\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
 C:\Users\ShahBaksh\Desktop\6th Semester\Network Programming-20190408T162037Z-001\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
 C:\Users\ShahBaksh\Desktop\6th Semester\Network Programming-20190408T162037Z-001\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
 C:\Users\ShahBaksh\Desktop\6th Semester\Network Programming-20190408T162037Z-001\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.GameMenu.resources
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+E:\DEV\GitHub\spaceinvaders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb

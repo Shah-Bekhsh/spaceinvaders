@@ -17,9 +17,7 @@ namespace SpaceInvaders
             InitializeComponent();
         }
 
-        // Object for main game Single player 
-        Form1 showForm1 = new Form1();
-
+        
         // Object for main game Multiplayer 
         //Form1 showForm1 = new Form1();
         
@@ -45,15 +43,9 @@ namespace SpaceInvaders
 
         private void Start_Click(object sender, EventArgs e)
         {
-            if(showForm1.IsDisposed)
-            {
-                showForm1 = new Form1();
-                showForm1.Show();
-            }
-            else
-            {
-                showForm1.Show();
-            }
+            // Object for main game Single player 
+            Form1 showForm1 = new Form1();
+            showForm1.Show();
         }
     }
 }
